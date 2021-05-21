@@ -23,7 +23,7 @@ body {
     width: 60%;
 }
 .sideboard {
-    width: 40%;
+    width: 100%;
     background-color: rgb(163, 163, 113);
     height: 400px;
 }
@@ -36,4 +36,9 @@ body {
     width: 100%;
     background-color: rgb(0, 0, 0);
     height: 50px;
+}
+.content
+{
+    background:gray;
+    width: 100%;
 }
